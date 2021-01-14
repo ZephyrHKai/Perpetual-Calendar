@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">日历Mini</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="nothing">这一天并没有添加任何的事件…</string>
+    <string name="is_today">今日事,今日毕</string>
+    <string name="zodiac">生肖</string>
+    <string name="more_event">更多事件</string>
+    <string name="donate">捐赠</string>
+    <string name="thank_you">谢谢你</string>
+    <string name="not_interested">没兴趣</string>
+    <string name="however_thanks">还是谢谢支持！我会更加努力的。</string>
+    <string name="thanks_very_much">万分感谢！我会更加努力的。</string>
+    <string name="donate_little">捐赠一点</string>
+    <string name="no_market">您的系统中没有安装应用市场</string>
+    <string name="today_things">今日事,今日毕</string>
+    <string name="day">天</string>
+    <string name="till_xx_days_ago">距今还有%4d天</string>
+    <string name="it_has_been_xx_days">距今已过%4d天</string>
+    <string name="xx_later">%d天之后</string>
+    <string name="xx_before">%d天之前</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="delete">删除</string>
+    <string name="do_not_delete">不删除</string>
+    <string name="setting">设置</string>
+    <string name="current_lunar_size">农历字体大小，当前为：%d</string>
+    <string name="current_week_size">星期字体大小，当前为：%d</string>
+    <string name="current_number_size">日期数字字体大小，当前为：%d</string>
+    <string name="current_holiday_size">假日字体大小，当前为：%d</string>
+    <string name="current_day_size">日期背景大小，当前为：%d</string>
+    <string name="current_dpi">DPI，当前为：%d</string>
+    <string name="birthday">生日</string>
+    <string name="xx_year">%s年</string>
+    <string name="xx_year_xx_month">%d年%02d月</string>
+    <string name="do_not_save">不保存</string>
+    <string name="whether_to_save">是否保存当前内容？</string>
+    <string name="xx_year_xx_month_xx">%d年%d月%d日</string>
+    <string name="white_widget">白色小部件</string>
+    <string name="transparent_widget">透明小部件</string>
+    <string name="load_wall_pager">加载壁纸</string>
+    <string name="confirm_delete">是否删除该事件？</string>
+    <string name="long_press_edit">长按编辑</string>
+    <string name="custom_symbol_comment">自定义符号备注</string>
+    <array name="who">
+        <item>我</item>
+        <item>爸爸</item>
+        <item>妈妈</item>
+        <item>女票</item>
+        <item>男票</item>
+        <item>老公</item>
+        <item>老婆</item>
+        <item>儿子</item>
+        <item>女儿</item>
+        <item>其他</item>
+    </array>
+</resources>
